@@ -93,27 +93,16 @@ Sphero Computer Science Foundations Courses 1-3
 $499
 INSPIRING THE CREATORS OF TOMORROW
 
-KEEP YOUR INBOX INSPIRED*
-Email
-Please verify your request*
 
-Subscribe
 
-About
 
-Support
 
-Resources
-© Sphero, Inc. 2022. All Rights Reserved.
-BOLT, littleBits, RVR, RVR+, Specdrums, Sphero Edu, Sphero Mini, and SPRK+ are registered trademarks of Sphero, Inc. Inspiring the Creators of Tomorrow, indi, Sphero Edu Jr, Computer Science Foundations, Making Changemakers, and Snap the Gap are trademarks of Sphero, Inc. Other trademarks and trade names are those of their respectful owners.
 
-If you are using a screen reader and having issues with our website please email support@sphero.com for assistance.
 
-Follow Us
 
-This website stores cookies on your computer. These cookies are used to improve your website experience and provide more customized services to you. To find out more about the cookies we use, see our privacy policy. To accept cookies from this site, please click the accept button.
 
-Accept
+
+
 
 
 
