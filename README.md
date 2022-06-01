@@ -1,5 +1,5 @@
-# mistrweb.com
 5 Fundamental Coding Concepts Every Kid Should Know
+
 Learning to code not only prepares young minds for our increasingly tech-driven world, but also allows them to foster creativity, gain problem-solving skills, and improve their overall academic performance.
 
 While it may be difficult to believe that children can learn the intricacies of coding, it’s important to remember that computer programming is its own language — and children are experts at absorbing new languages due to their brain plasticity, rapid neural linking abilities, and limited inhibitions. 
