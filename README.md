@@ -48,61 +48,9 @@ Teach Coding Concepts With Sphero
 These five concepts are fundamental to introducing children to the basics of coding. Here at Sphero, we want to ensure every student has the tools they need to learn these fundamentals in a fun and engaging way. Fortunately, with our ridiculously cool programmable robots and and standards-aligned curriculum like like Computer Science Foundations, educators can integrate computer programming concepts and learn how to code right alongside their students.
 
 
-Set up your young learners for success in the 21st Century — discover coding for kids with Sphero today!
+beWSet up your young learners for success in the 21st Century — discover coding for kids with Mistr Web today!
 
-Tags: 
-At school
-Share
-Previous article
-Next article
-
-Written by:
-
-Sphero Team
-Join Us
-Keep your inbox inspired. Sign up for product updates, exclusive offers, and teacher resources.
-
-KEEP YOUR INBOX INSPIRED*
-Email
-School or School District*
-School Name or Company Name
-Please verify your request*
-
-Submit
-Popular posts
-
-Sphero Heroes posing for picture together. 
-Meet the Sphero Heroes
-Jan 31, 2018
-BOLT on desk in classroom with teacher in the background.
-Sphero Q&A: Chrome OS Update
-App UpdateFeb 03, 2020
-Group of students working together on littleBits products.
-Make Kindness Matter & Create Community Through Code
-Feb 21, 2020
-Featured products
-
-Sphero BOLT Power Pack + Sphero City and Golf Code Mat.
-Sphero BOLT Power Pack + Sphero Code Mat
-$3,099
-STEAM Student Set Class Pack with educator guides and durable storage.
-littleBits STEAM Student Set Class Pack
-$3,099
-Sphero Computer Science Foundations Courses 1-3
-Sphero Computer Science Foundations Courses 1-3
-$499
-INSPIRING THE CREATORS OF TOMORROW
-
-
-
-
-
-
-
-
-
-
-
+:
 
 
 
